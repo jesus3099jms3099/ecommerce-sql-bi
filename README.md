@@ -155,9 +155,9 @@ Usado con fines educativos y de portafolio.
 
 ## Autor
 
-**Jesús Muñoz Sánchez** — Ingeniero Industrial & Analista de datos / BI
+**Jesús Muñoz Sánchez** — Ingeniero Industrial | Analista de datos & BI
 
-📧 jesus.3099.jms@gmail.com
-🔗 GitHub: [jesus3099jms3099](https://github.com/jesus3099jms3099)
-🔗 LinkedIn: [Jesús Muñoz](https://www.linkedin.com/in/jesus-munoz-sanchez/)
+📧 j.munoz.ind@gmail.com
+🔗 GitHub: [jesus3099jms3099](https://github.com/jmunoz-ind)
+🔗 LinkedIn: [Jesús Muñoz](https://www.linkedin.com/in/j-munoz-ind/)
 
