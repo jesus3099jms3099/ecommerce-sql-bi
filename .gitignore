@@ -1,0 +1,8 @@
+/*
+
+# Permitidos
+!/.gitignore
+!/README.md
+!/sql/
+!/powerbi/
+!/assets/
